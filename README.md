@@ -22,7 +22,7 @@ Me muevo entre el desarrollo de software, la ciberseguridad y el ecosistema Linu
 | Área | Tecnologías |
 |---|---|
 | Lenguajes | Python, SQL, Bash, JavaScript |
-| Bases de datos | PostgreSQL, MySQL |
+| Bases de datos | PostgreSQL, Supabase |
 | Sistemas | Linux (Debian/Arch), terminal-first |
 | Dev Tools | Git, VS Code, pgAdmin4 |
 | Interés activo | Ciberseguridad, redes, scripting |
